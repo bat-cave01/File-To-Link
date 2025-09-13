@@ -1,0 +1,9 @@
+aiohttp
+cloudscraper
+Jinja2
+kurigram
+motor
+psutil
+python-dotenv
+tgcrypto
+uvloop
