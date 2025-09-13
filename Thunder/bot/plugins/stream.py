@@ -33,25 +33,30 @@ async def fwd_media(m_msg: Message) -> Optional[Message]:
         return None
 
 def get_link_buttons(links):
-    return InlineKeyboardMarkup([[
-        InlineKeyboardButton(MSG_BUTTON_STREAM_NOW, url=links['stream_link']),
-        InlineKeyboardButton(MSG_BUTTON_DOWNLOAD, url=links['online_link'])
-    ]])
+    buttons = []
+    if links.get("stream_link") and links["stream_link"].startswith(("http://", "https://")):
+        buttons.append(InlineKeyboardButton(MSG_BUTTON_STREAM_NOW, url=links["stream_link"]))
+    if links.get("online_link") and links["online_link"].startswith(("http://", "https://")):
+        buttons.append(InlineKeyboardButton(MSG_BUTTON_DOWNLOAD, url=links["online_link"]))
+    return InlineKeyboardMarkup([buttons]) if buttons else None
+
 
 async def send_link(msg: Message, links: Dict[str, Any]):
+    reply_markup = get_link_buttons(links)
     await handle_flood_wait(
         msg.reply_text,
         MSG_LINKS.format(
-            file_name=links['media_name'],
-            file_size=links['media_size'],
-            download_link=links['online_link'],
-            stream_link=links['stream_link']
+            file_name=links.get("media_name", "Unknown"),
+            file_size=links.get("media_size", "Unknown"),
+            download_link=links.get("online_link", "N/A"),
+            stream_link=links.get("stream_link", "N/A")
         ),
         quote=True,
         parse_mode=enums.ParseMode.MARKDOWN,
         link_preview_options=LinkPreviewOptions(is_disabled=True),
-        reply_markup=get_link_buttons(links)
+        reply_markup=reply_markup
     )
+
 
 @StreamBot.on_message(filters.command("link") & ~filters.private)
 async def link_handler(bot: Client, msg: Message, **kwargs):
