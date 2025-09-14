@@ -1,0 +1,795 @@
+[14/09/2025 05:56:22][uvicorn][INFO] -> Web server is started!
+[14/09/2025 05:56:22][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 05:56:22][hydrogram.session.auth][INFO] -> Start creating a new auth key on DC2
+[14/09/2025 05:56:22][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 05:56:22][hydrogram.connection.connection][INFO] -> Connected! Production DC2 - IPv4
+[14/09/2025 05:56:24][hydrogram.session.auth][INFO] -> Done auth key exchange: DhGenOk
+[14/09/2025 05:56:24][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 05:56:24][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 05:56:24][hydrogram.connection.connection][INFO] -> Connected! Production DC2 - IPv4
+[14/09/2025 05:56:24][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 05:56:25][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 05:56:25][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 05:56:25][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 05:56:25][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 05:56:25][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 05:56:25][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 05:56:25][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 05:56:25][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 05:56:25][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 05:58:12][uvicorn][INFO] -> Web server is started!
+[14/09/2025 05:58:12][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 05:58:12][hydrogram.session.auth][INFO] -> Start creating a new auth key on DC2
+[14/09/2025 05:58:12][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 05:58:12][hydrogram.connection.connection][INFO] -> Connected! Production DC2 - IPv4
+[14/09/2025 05:58:14][hydrogram.session.auth][INFO] -> Done auth key exchange: DhGenOk
+[14/09/2025 05:58:14][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 05:58:14][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 05:58:14][hydrogram.connection.connection][INFO] -> Connected! Production DC2 - IPv4
+[14/09/2025 05:58:14][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 05:58:15][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 05:58:15][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 05:58:15][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 05:58:15][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 05:58:15][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 05:58:15][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 05:58:15][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 05:58:15][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 05:58:15][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 05:58:15][hydrogram.session.auth][INFO] -> Start creating a new auth key on DC5
+[14/09/2025 05:58:15][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 05:58:15][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 05:58:16][hydrogram.session.auth][INFO] -> Done auth key exchange: DhGenOk
+[14/09/2025 05:58:16][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 05:58:16][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 05:58:16][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 05:58:16][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 05:58:16][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 05:58:16][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 05:58:16][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 05:58:16][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 05:58:16][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 05:58:17][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 05:58:17][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 05:59:24][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 05:59:24][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 05:59:24][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 05:59:24][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 05:59:24][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 05:59:28][uvicorn][INFO] -> Web server is started!
+[14/09/2025 05:59:28][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 05:59:28][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 05:59:28][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 05:59:28][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 05:59:28][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 05:59:28][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 05:59:28][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 05:59:28][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 05:59:28][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 05:59:28][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 05:59:28][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:00:21][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 06:00:24][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 200
+[14/09/2025 06:00:24][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 206
+[14/09/2025 06:00:24][hydrogram.session.auth][INFO] -> Start creating a new auth key on DC4
+[14/09/2025 06:00:24][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:00:25][hydrogram.connection.connection][INFO] -> Connected! Production DC4 - IPv4
+[14/09/2025 06:00:26][hydrogram.session.auth][INFO] -> Done auth key exchange: DhGenOk
+[14/09/2025 06:00:26][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:00:26][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:00:27][hydrogram.connection.connection][INFO] -> Connected! Production DC4 (media) - IPv4
+[14/09/2025 06:00:27][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:00:27][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:00:27][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:00:27][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:00:27][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:00:27][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:00:30][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 206
+[14/09/2025 06:00:30][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 206
+[14/09/2025 06:00:42][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 206
+[14/09/2025 06:00:43][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 206
+[14/09/2025 06:00:56][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 200
+[14/09/2025 06:01:19][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 200
+[14/09/2025 06:01:19][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 404
+[14/09/2025 06:01:19][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 06:01:24][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 06:01:25][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 200
+[14/09/2025 06:01:26][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 404
+[14/09/2025 06:01:27][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/420?code=9659bf29fb00a1d2143a27b6c8eac4769d3e381e315379c5 HTTP/1.1" 404
+[14/09/2025 06:03:13][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:03:13][hydrogram.connection.connection][INFO] -> Connected! Production DC5 (media) - IPv4
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:03:13][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:03:13][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:09:18][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:09:18][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:09:18][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:09:18][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:09:18][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:09:18][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:09:18][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:09:18][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:09:18][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:09:20][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:09:20][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:09:20][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:09:20][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:09:20][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:09:20][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:09:20][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:09:20][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:09:20][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:09:20][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:09:21][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:09:21][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:11:04][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:11:04][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:11:04][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:11:04][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:11:04][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:11:07][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:11:07][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:11:07][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:11:07][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:11:07][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:11:07][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:11:07][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:11:07][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:11:07][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:11:07][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:11:07][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:11:07][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:20:03][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:20:03][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:20:03][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:20:03][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:20:03][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:20:05][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:20:05][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:20:05][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:20:05][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:20:05][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:20:06][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:20:06][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:20:06][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:20:06][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:20:06][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:20:06][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:20:06][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:25:17][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:25:17][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:25:17][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:25:17][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:25:17][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:25:50][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:25:50][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:25:50][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:25:50][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:25:50][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:25:51][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:25:51][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:25:51][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:25:51][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:25:51][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:25:51][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:25:51][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:27:51][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 200
+[14/09/2025 06:27:51][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:27:51][hydrogram.connection.connection][INFO] -> Connected! Production DC5 (media) - IPv4
+[14/09/2025 06:27:51][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:27:51][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:27:51][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:27:51][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:27:51][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:27:51][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:27:59][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 200
+[14/09/2025 06:28:00][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 206
+[14/09/2025 06:28:01][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 206
+[14/09/2025 06:28:01][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 206
+[14/09/2025 06:28:02][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 06:28:03][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 200
+[14/09/2025 06:28:03][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 206
+[14/09/2025 06:28:04][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 206
+[14/09/2025 06:28:04][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 206
+[14/09/2025 06:28:05][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/424?code=90898b7997faa60c15a7e68a44ad5623d27d7e4e6e0d40eb HTTP/1.1" 200
+[14/09/2025 06:32:49][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:32:49][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:32:49][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:32:49][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:32:49][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:32:49][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:32:49][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:32:49][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:32:49][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:33:29][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:33:29][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:33:29][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:33:29][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:33:29][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:33:29][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:33:29][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:33:29][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:33:29][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:33:29][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:35:19][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:35:19][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:35:19][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:35:19][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:35:19][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:35:19][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:35:19][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:35:19][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:35:19][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:35:19][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:35:20][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:35:20][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:35:27][hydrogram.dispatcher][ERROR] -> name 'HelpText' is not defined
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 236, in _handle_update
+    await self._execute_callback(handler, parsed_update)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 264, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/handlers/callback_query_handler.py", line 223, in resolve_future_or_callback
+    await self.original_callback(client, query, *args)
+  File "/workspaces/File-To-Link/bot/plugins/callback.py", line 39, in help_callback
+    text=HelpText,
+         ^^^^^^^^
+NameError: name 'HelpText' is not defined
+[14/09/2025 06:35:48][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:35:48][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:35:48][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:35:48][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:35:48][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:35:51][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:35:51][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:35:51][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:35:51][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:35:51][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:35:51][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:35:51][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:35:51][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:35:51][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:35:51][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:35:51][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:35:51][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:35:54][hydrogram.dispatcher][ERROR] -> name 'InlineKeyboardMarkup' is not defined
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 236, in _handle_update
+    await self._execute_callback(handler, parsed_update)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 264, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/handlers/callback_query_handler.py", line 223, in resolve_future_or_callback
+    await self.original_callback(client, query, *args)
+  File "/workspaces/File-To-Link/bot/plugins/callback.py", line 40, in help_callback
+    reply_markup=InlineKeyboardMarkup(
+                 ^^^^^^^^^^^^^^^^^^^^
+NameError: name 'InlineKeyboardMarkup' is not defined
+[14/09/2025 06:36:18][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:36:18][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:36:18][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:36:18][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:36:18][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:36:20][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:36:20][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:36:20][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:36:20][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:36:20][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:36:21][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:36:21][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:36:21][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:36:21][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:36:21][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:36:21][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:36:21][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:38:35][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:38:35][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:38:35][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:38:35][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:38:35][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:38:38][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:38:38][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:38:38][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:38:38][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:38:38][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:38:38][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:38:38][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:38:38][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:38:38][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:38:38][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:38:38][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:38:38][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:39:47][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:39:47][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:39:47][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:39:47][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:39:47][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:39:51][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:39:51][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:39:51][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:39:51][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:39:51][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:39:52][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:39:52][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:39:52][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:39:52][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:39:52][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:39:52][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:39:52][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:41:50][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:41:50][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:41:50][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:41:50][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:41:50][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:41:53][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:41:53][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:41:53][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:41:53][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:41:53][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:41:53][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:41:53][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:41:53][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:41:53][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:41:53][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:41:53][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:41:53][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:43:34][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:43:34][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:43:34][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:43:34][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:43:34][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:43:36][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:43:36][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:43:36][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:43:36][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:43:36][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:43:36][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:43:36][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:43:36][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:43:36][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:43:36][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:43:37][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:43:37][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:43:57][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:43:57][hydrogram.connection.connection][INFO] -> Connected! Production DC5 (media) - IPv4
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:43:57][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:43:57][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:52:20][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:52:20][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:52:20][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:52:20][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:52:20][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:52:23][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:52:23][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:52:23][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:52:23][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:52:23][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:52:23][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:52:23][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:52:23][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:52:23][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:52:23][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:52:23][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:52:23][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:54:31][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:54:31][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:54:31][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:54:31][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:54:31][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:54:33][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:54:33][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:54:33][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:54:33][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:54:33][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:54:33][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:54:33][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:54:33][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:54:33][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:54:33][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:54:33][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:54:33][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:55:49][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:55:49][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:55:49][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:55:49][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:55:49][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:55:51][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:55:51][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:55:51][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:55:51][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:55:51][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:55:52][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:55:52][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:55:52][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:55:52][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:55:52][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:55:52][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:55:52][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 06:56:48][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 06:56:48][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 06:56:48][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 06:56:48][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 06:56:48][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 06:56:50][uvicorn][INFO] -> Web server is started!
+[14/09/2025 06:56:50][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 06:56:50][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 06:56:50][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 06:56:50][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 06:56:50][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 06:56:50][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 06:56:50][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 06:56:50][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 06:56:50][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 06:56:50][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 06:56:50][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:00:43][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:00:43][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:00:43][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:00:43][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:00:43][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:00:45][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:00:45][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:00:45][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:00:45][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:00:45][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:00:45][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:00:45][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:00:45][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:00:45][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:00:45][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:00:46][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:00:46][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:00:55][hydrogram.dispatcher][ERROR] -> 'first_name'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 236, in _handle_update
+    await self._execute_callback(handler, parsed_update)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 264, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/handlers/message_handler.py", line 170, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/workspaces/File-To-Link/bot/modules/decorators.py", line 50, in decorator
+    return await func(client, update)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/File-To-Link/bot/plugins/files.py", line 34, in handle_user_file
+    text=MediaLinksText % {'dl_link': dl_link, 'stream_link': stream_link},
+         ~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+KeyError: 'first_name'
+[14/09/2025 07:02:59][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:02:59][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:02:59][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:02:59][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:02:59][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:03:09][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:03:09][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:03:09][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:03:09][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:03:09][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:03:09][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:03:09][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:03:09][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:03:09][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:03:09][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:04:41][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:04:41][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:04:41][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:04:41][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:04:41][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:04:41][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:04:41][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:04:41][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:04:41][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:04:41][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:05:34][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:05:34][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:05:34][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:05:34][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:05:34][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:05:34][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:05:34][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:05:34][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:05:34][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:05:34][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:05:34][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:05:34][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:08:00][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:08:00][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:08:00][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:08:00][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:08:00][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:08:03][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:08:03][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:08:03][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:08:03][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:08:03][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:08:03][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:08:03][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:08:03][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:08:03][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:08:03][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:08:03][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:08:03][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:10:14][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:10:14][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:10:14][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:10:14][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:10:14][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:10:17][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:10:17][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:10:17][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:10:17][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:10:17][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:10:17][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:10:17][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:10:17][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:10:17][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:10:17][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:10:17][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:10:17][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:16:42][hydrogram.dispatcher][ERROR] -> 'first_name'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 236, in _handle_update
+    await self._execute_callback(handler, parsed_update)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 264, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/handlers/message_handler.py", line 170, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/workspaces/File-To-Link/bot/modules/decorators.py", line 50, in decorator
+    return await func(client, update)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/File-To-Link/bot/plugins/files.py", line 56, in handle_user_file
+    text=FileLinksText % {'dl_link': dl_link},
+         ~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~
+KeyError: 'first_name'
+[14/09/2025 07:17:16][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:17:16][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:17:16][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:17:16][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:17:16][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:17:18][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:17:18][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:17:18][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:17:18][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:17:18][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:17:19][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:17:19][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:17:19][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:17:19][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:17:19][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:17:19][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:17:19][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:19:40][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:19:40][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:19:40][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:19:40][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:19:40][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:19:42][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:19:42][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:19:42][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:19:42][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:19:42][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:19:42][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:19:42][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:19:42][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:19:42][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:19:42][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:19:43][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:19:43][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:21:43][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:21:43][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:21:43][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:21:43][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:21:43][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:21:46][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:21:46][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:21:46][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:21:46][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:21:46][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:21:46][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:21:46][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:21:46][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:21:46][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:21:46][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:21:47][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:21:47][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:21:53][hydrogram.dispatcher][ERROR] -> name 'token_hex' is not defined
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 236, in _handle_update
+    await self._execute_callback(handler, parsed_update)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 264, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/handlers/message_handler.py", line 170, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/workspaces/File-To-Link/bot/plugins/commands.py", line 66, in generate_link
+    secret_code = token_hex(Telegram.SECRET_CODE_LENGTH)
+                  ^^^^^^^^^
+NameError: name 'token_hex' is not defined
+[14/09/2025 07:22:16][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:22:16][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:22:16][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:22:16][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:22:16][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:22:19][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:22:19][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:22:19][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:22:19][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:22:19][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:22:19][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:22:19][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:22:19][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:22:19][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:22:19][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:22:19][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:22:19][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:22:24][hydrogram.dispatcher][ERROR] -> name 'Server' is not defined
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 236, in _handle_update
+    await self._execute_callback(handler, parsed_update)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 264, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/handlers/message_handler.py", line 170, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/workspaces/File-To-Link/bot/plugins/commands.py", line 75, in generate_link
+    dl_link = f"{Server.BASE_URL}/dl/{file_id}?code={secret_code}"
+                 ^^^^^^
+NameError: name 'Server' is not defined
+[14/09/2025 07:22:41][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:22:41][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:22:41][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:22:41][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:22:41][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:22:44][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:22:44][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:22:44][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:22:44][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:22:44][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:22:44][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:22:44][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:22:44][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:22:44][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:22:44][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:22:44][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:22:44][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:22:55][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/432?code=64afcf2d75f3ba8a096be91911b226eaf185a5047192e870 HTTP/1.1" 200
+[14/09/2025 07:22:55][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/432?code=64afcf2d75f3ba8a096be91911b226eaf185a5047192e870 HTTP/1.1" 206
+[14/09/2025 07:22:55][hydrogram.session.auth][INFO] -> Start creating a new auth key on DC4
+[14/09/2025 07:22:55][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:22:56][hydrogram.connection.connection][INFO] -> Connected! Production DC4 - IPv4
+[14/09/2025 07:22:57][hydrogram.session.auth][INFO] -> Done auth key exchange: DhGenOk
+[14/09/2025 07:22:57][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:22:57][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:22:58][hydrogram.connection.connection][INFO] -> Connected! Production DC4 (media) - IPv4
+[14/09/2025 07:22:58][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:22:58][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:22:58][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:22:58][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:22:58][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:22:58][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:22:59][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 07:23:01][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/432?code=64afcf2d75f3ba8a096be91911b226eaf185a5047192e870 HTTP/1.1" 206
+[14/09/2025 07:23:01][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/432?code=64afcf2d75f3ba8a096be91911b226eaf185a5047192e870 HTTP/1.1" 206
+[14/09/2025 07:23:08][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/432?code=64afcf2d75f3ba8a096be91911b226eaf185a5047192e870 HTTP/1.1" 206
+[14/09/2025 07:23:08][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/432?code=64afcf2d75f3ba8a096be91911b226eaf185a5047192e870 HTTP/1.1" 206
+[14/09/2025 07:23:40][hydrogram.dispatcher][ERROR] -> 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 236, in _handle_update
+    await self._execute_callback(handler, parsed_update)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/dispatcher.py", line 264, in _execute_callback
+    await handler.callback(self.client, *args)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/hydrogram/handlers/message_handler.py", line 170, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/workspaces/File-To-Link/bot/plugins/commands.py", line 70, in generate_link
+    caption=f'||{secret_code}/{msg.from_user.id}||'
+                               ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+[14/09/2025 07:24:51][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:24:51][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:24:51][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:24:51][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:24:51][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:24:51][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:24:51][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:24:51][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:24:51][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:24:53][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:24:53][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:24:53][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:24:53][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:24:53][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:24:53][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:24:53][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:24:53][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:24:53][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:24:53][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:24:54][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:24:54][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:25:17][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 200
+[14/09/2025 07:25:18][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 206
+[14/09/2025 07:25:18][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:25:18][hydrogram.connection.connection][INFO] -> Connected! Production DC5 (media) - IPv4
+[14/09/2025 07:25:18][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:25:18][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:25:18][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:25:18][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:25:18][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:25:18][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:25:19][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 206
+[14/09/2025 07:25:19][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 206
+[14/09/2025 07:25:20][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 07:25:26][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 206
+[14/09/2025 07:25:27][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 206
+[14/09/2025 07:25:46][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 200
+[14/09/2025 07:25:46][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 206
+[14/09/2025 07:25:46][hydrogram.session.auth][INFO] -> Start creating a new auth key on DC4
+[14/09/2025 07:25:46][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:25:47][hydrogram.connection.connection][INFO] -> Connected! Production DC4 - IPv4
+[14/09/2025 07:25:48][hydrogram.session.auth][INFO] -> Done auth key exchange: DhGenOk
+[14/09/2025 07:25:48][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:25:48][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:25:49][hydrogram.connection.connection][INFO] -> Connected! Production DC4 (media) - IPv4
+[14/09/2025 07:25:49][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:25:49][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:25:49][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:25:49][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:25:49][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:25:49][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:25:50][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 07:25:52][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 206
+[14/09/2025 07:25:54][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 206
+[14/09/2025 07:26:18][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 200
+[14/09/2025 07:26:18][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 206
+[14/09/2025 07:26:19][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 206
+[14/09/2025 07:26:20][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/438?code=fc165fb0d59164389719f7142576cffd13ee6cd64107486a HTTP/1.1" 206
+[14/09/2025 07:26:20][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 07:26:33][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 206
+[14/09/2025 07:26:33][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 206
+[14/09/2025 07:26:34][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 206
+[14/09/2025 07:26:36][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 206
+[14/09/2025 07:26:48][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /dl/435?code=57cb3912a3fcefb36f68a400a045047e8401152268f7031a HTTP/1.1" 206
+[14/09/2025 07:27:09][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /favicon.ico HTTP/1.1" 404
+[14/09/2025 07:27:11][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET / HTTP/1.1" 302
+[14/09/2025 07:27:51][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream HTTP/1.1" 404
+[14/09/2025 07:27:56][uvicorn.access][INFO] -> 49.47.241.8:0 - "GET /stream/ HTTP/1.1" 404
+[14/09/2025 07:34:59][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:34:59][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:34:59][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:34:59][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:34:59][hydrogram.session.session][INFO] -> Session stopped
+[14/09/2025 07:35:27][uvicorn][INFO] -> Web server is started!
+[14/09/2025 07:35:27][uvicorn][INFO] -> Server running on 0.0.0.0:8080
+[14/09/2025 07:35:27][hydrogram.connection.connection][INFO] -> Connecting...
+[14/09/2025 07:35:27][hydrogram.connection.connection][INFO] -> Connected! Production DC5 - IPv4
+[14/09/2025 07:35:27][hydrogram.session.session][INFO] -> NetworkTask started
+[14/09/2025 07:35:27][hydrogram.session.session][INFO] -> Session initialized: Layer 181
+[14/09/2025 07:35:27][hydrogram.session.session][INFO] -> Device: CPython 3.12.1 - Hydrogram 0.2.0
+[14/09/2025 07:35:27][hydrogram.session.session][INFO] -> System: Linux 6.8.0-1030-azure (en)
+[14/09/2025 07:35:27][hydrogram.session.session][INFO] -> Session started
+[14/09/2025 07:35:27][hydrogram.session.session][INFO] -> PingTask started
+[14/09/2025 07:35:27][hydrogram.client][WARNING] -> [bot] No plugin loaded from "bot/plugins"
+[14/09/2025 07:35:27][hydrogram.dispatcher][INFO] -> Started 6 HandlerTasks
+[14/09/2025 07:35:34][hydrogram.dispatcher][INFO] -> Stopped 6 HandlerTasks
+[14/09/2025 07:35:34][hydrogram.session.session][INFO] -> PingTask stopped
+[14/09/2025 07:35:34][hydrogram.session.session][INFO] -> NetworkTask stopped
+[14/09/2025 07:35:34][hydrogram.connection.connection][INFO] -> Disconnected
+[14/09/2025 07:35:34][hydrogram.session.session][INFO] -> Session stopped

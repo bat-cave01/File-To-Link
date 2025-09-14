@@ -1,9 +1,4 @@
-aiohttp
-cloudscraper
-Jinja2
-kurigram
-motor
-psutil
-python-dotenv
+hydrogram
 tgcrypto
-uvloop
+quart
+uvicorn
