@@ -1,5 +1,6 @@
-hydrogram
+Kurigram==2.2.7
 tgcrypto
 quart
 uvicorn
+
 dotenv
