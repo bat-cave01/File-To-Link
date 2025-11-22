@@ -1,4 +1,4 @@
-Kurigram==2.2.7
+hydrogram==0.2.0
 tgcrypto
 quart
 uvicorn
