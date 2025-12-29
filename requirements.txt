@@ -1,6 +1,7 @@
-hydrogram==0.2.0
+hydrogram
 tgcrypto
 quart
 uvicorn
 
 dotenv
+
